@@ -1,1 +1,1 @@
-# Devstratum-Minify-Source
+# Devstratum JMP Minify Source
